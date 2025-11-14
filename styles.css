@@ -131,4 +131,11 @@ header {
     button {
         height: 40px;
     }
+
+}
+
+@media screen and (max-width: 430px) {
+    button {
+        margin-right: 30px;
+    }
 }
